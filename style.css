@@ -1,0 +1,24 @@
+#main-body {
+    display: grid;
+    grid-template-columns: minmax(300px,auto);   
+    grid-gap: 20px;
+    width:50px;
+    float: left;
+    text-size-adjust: 50px;
+    font-size: xx-small;
+}
+fieldset{
+  float: left;
+  background-color: burlywood;
+ font-size: large;
+}
+li{
+    font-size: large;
+    
+}
+p{
+    font-size: large;
+}
+h1{
+    background-color: rgb(73, 62, 170);
+}
